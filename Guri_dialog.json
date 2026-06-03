@@ -3,7 +3,7 @@
  "title": "Notice",
  "message": " 1:- update your app. Anonymous Omi",
  "toast": " Anonymous Omi, Thanks for using my App",
- "force_update": true,
- "maintenance": true,
- "disable_app": true
+ "force_update": false,
+ "maintenance": false,
+ "disable_app": false
 }
