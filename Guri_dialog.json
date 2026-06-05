@@ -1,9 +1,9 @@
 {
- "show_dialog": false,
+ "show_dialog": true,
  "title": "Notice",
  "message": " 1:- update your app. Anonymous Omi",
- "toast": " Anonymous Omi, Thanks for using my App",
- "force_update": false,
- "maintenance": false,
- "disable_app": false
+ "toast": "Contact Anonymous Omi t.me/anonymous_omi",
+ "force_update": true,
+ "maintenance": true,
+ "disable_app": true
 }
